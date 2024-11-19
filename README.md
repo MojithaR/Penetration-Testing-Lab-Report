@@ -108,6 +108,6 @@ Here’s why this project is crucial:
 
 ## 🧑‍💻 Contributors
 
-- **Your Name** - [GitHub Profile](https://github.com/MojithaR)
+- **Tithira Mojitha** - [GitHub Profile](https://github.com/MojithaR)
 
 Thank you for visiting! Feel free to contribute, suggest improvements, or raise issues. Let’s make the world of cybersecurity safer together!
